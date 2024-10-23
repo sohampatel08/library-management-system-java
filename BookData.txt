@@ -1,0 +1,6 @@
+Data Structures,3
+Artificial Intelligence,1
+Database Management,4
+Java Programming,5
+Machine Learning,5
+Operating Systems,2
